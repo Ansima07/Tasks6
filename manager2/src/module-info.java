@@ -1,3 +1,3 @@
 module manager2 {
-    exports user2;
+    exports users;
 }

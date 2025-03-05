@@ -1,4 +1,4 @@
-package user2;
+package users;
 
 public class managment2 {
     String ManagerName;
@@ -9,6 +9,7 @@ public class managment2 {
         this.Email = Email;
         this.PhoneNumber= Number;
     }
+
     public void DisplayManagmentInfo(){
         System.out.println("The manager's name is " + ManagerName);
         System.out.println("The manager's email is " + Email);
